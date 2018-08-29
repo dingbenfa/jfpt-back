@@ -19,8 +19,8 @@ export default new Router({
                 },
                 {
                     path: '/table',
-                    component: resolve => require(['../components/page/BaseTable.vue'], resolve),
-                    meta: { title: '基础表格' }
+                    component: resolve => require(['../components/page/userManage/BaseTable.vue'], resolve),
+                    meta: { title: '融资客户管理' }
                 },
                 {
                     path: '/tabs',

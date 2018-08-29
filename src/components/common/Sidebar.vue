@@ -37,7 +37,7 @@
                     {
                         icon: 'el-icon-tickets',
                         index: 'table',
-                        title: '基础表格'
+                        title: '融资客户管理'
                     },
                     {
                         icon: 'el-icon-message',
